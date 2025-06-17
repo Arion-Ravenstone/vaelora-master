@@ -1,0 +1,4 @@
+# Firebase CLI import instructions
+# Assumes firebase-tools is installed
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_01.json --collection=Lore_Events

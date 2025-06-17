@@ -1,0 +1,1 @@
+// toneEngine.js placeholder for sarcasm, venom, etc.

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "warfront_sarcasm_01",
+    "type": "quipped",
+    "tags": [
+      "military",
+      "sarcasm"
+    ],
+    "triggerPhrase": "What's the plan?",
+    "content": "Get shot, bleed loud, and hope someone competent hears it.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T11:36:40.385220Z"
+  },
+  {
+    "id": "warfront_grief_echo",
+    "type": "echo",
+    "tags": [
+      "war",
+      "loss"
+    ],
+    "triggerPhrase": "We lost too many.",
+    "content": "I still see them. Boots turned the wrong way. Helmets too clean.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T11:36:40.385223Z"
+  }
+]

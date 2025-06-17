@@ -1,0 +1,14 @@
+[
+    {
+        "email": "test_player@vaelora.com",
+        "password": "Test1234",
+        "role": "player",
+        "notes": "Standard user for gameplay and character testing."
+    },
+    {
+        "email": "admin@vaelora.com",
+        "password": "ArionDM2025",
+        "role": "admin",
+        "notes": "Has full Firestore access. Use for campaign setup and config."
+    }
+]

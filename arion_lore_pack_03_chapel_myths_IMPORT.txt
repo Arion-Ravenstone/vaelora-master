@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 03_chapel_myths
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_03_chapel_myths.json --collection=Lore_Events

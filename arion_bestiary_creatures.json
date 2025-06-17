@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Chapel Wolves",
+    "dangerTier": 4,
+    "region": "Chapel Ruins",
+    "traits": [
+      "silent",
+      "ancient",
+      "burrowed"
+    ],
+    "description": "Beneath the chapel stones, they wait \u2014 not dead, only forgotten. Their hunger is generational."
+  },
+  {
+    "name": "Bound Flame Revenant",
+    "dangerTier": 5,
+    "region": "Flame Vault",
+    "traits": [
+      "fireborne",
+      "cursed",
+      "relentless"
+    ],
+    "description": "The flame doesn't die. It simply learns to walk."
+  },
+  {
+    "name": "The Seventh Name",
+    "dangerTier": 6,
+    "region": "Astral Well",
+    "traits": [
+      "forbidden",
+      "mind-warping"
+    ],
+    "description": "No one remembers what it is. Only that they weren\u2019t supposed to say it."
+  },
+  {
+    "name": "Outlander's Mirror",
+    "dangerTier": 3,
+    "region": "Mirror Crypt",
+    "traits": [
+      "mimic",
+      "fear-borne",
+      "player-shaped"
+    ],
+    "description": "It speaks in your voice. Bleeds your regret. It is *you*, worse."
+  },
+  {
+    "name": "Gisela\u2019s Wound",
+    "dangerTier": 4,
+    "region": "Throne Hollow",
+    "traits": [
+      "spectral",
+      "betrayed",
+      "venomous"
+    ],
+    "description": "You didn't see her die. But the thing that rose after wears her rage like a crown."
+  },
+  {
+    "name": "Whispered Altar Husk",
+    "dangerTier": 2,
+    "region": "Luna's Shrine",
+    "traits": [
+      "lingering",
+      "echo-touched",
+      "regretful"
+    ],
+    "description": "Its voice is hers. And sometimes, when it turns\u2026 so is the face."
+  },
+  {
+    "name": "The Pale Grin",
+    "dangerTier": 5,
+    "region": "Northern Front",
+    "traits": [
+      "carnage-born",
+      "laughing",
+      "unkillable"
+    ],
+    "description": "It laughs with every wound you leave on it. And it bleeds nothing but memory."
+  },
+  {
+    "name": "Basilisk of Rust",
+    "dangerTier": 4,
+    "region": "Ash Cliffs",
+    "traits": [
+      "legacy-bonded",
+      "petrifying"
+    ],
+    "description": "A single eye. A thousand blades. It sees what your blood has hidden for generations."
+  },
+  {
+    "name": "He Who Waits Beneath",
+    "dangerTier": 7,
+    "region": "Bone Cathedral",
+    "traits": [
+      "sealed",
+      "patient",
+      "godspawn"
+    ],
+    "description": "He does not knock. He does not crawl. He simply waits until the door opens."
+  },
+  {
+    "name": "Shadow Arion",
+    "dangerTier": 6,
+    "region": "Fracture Layer",
+    "traits": [
+      "vengeful",
+      "anti-memory",
+      "paradox"
+    ],
+    "description": "The voice you buried. The thought you denied. The echo you deserve."
+  }
+]

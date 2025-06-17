@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 08_bound_flame_prophecies
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_08_bound_flame_prophecies.json --collection=Lore_Events

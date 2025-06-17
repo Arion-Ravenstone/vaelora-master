@@ -1,0 +1,26 @@
+[
+  {
+    "id": "unspoken_riddle_01",
+    "type": "unlockable",
+    "tags": [
+      "names",
+      "forbidden"
+    ],
+    "triggerPhrase": "I heard the seventh name.",
+    "content": "Then forget it. Say it again, and the world will forget you.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T11:36:40.385227Z"
+  },
+  {
+    "id": "unspoken_whisper_prophecy",
+    "type": "prophecy",
+    "tags": [
+      "eldritch",
+      "seals"
+    ],
+    "triggerPhrase": null,
+    "content": "When the twelfth name is spoken, the sky will bleed and the stars will fall inward.",
+    "moodEffect": "fatigued",
+    "timestamp": "2025-06-15T11:36:40.385230Z"
+  }
+]

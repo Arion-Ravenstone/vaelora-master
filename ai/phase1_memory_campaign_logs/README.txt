@@ -1,0 +1,1 @@
+This directory holds the logic for Phase1 Memory Campaign Logs

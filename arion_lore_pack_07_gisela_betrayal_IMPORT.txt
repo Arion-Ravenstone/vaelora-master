@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 07_gisela_betrayal
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_07_gisela_betrayal.json --collection=Lore_Events

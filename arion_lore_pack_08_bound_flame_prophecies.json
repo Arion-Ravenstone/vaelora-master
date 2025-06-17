@@ -1,0 +1,26 @@
+[
+  {
+    "id": "flame_prophecy_low",
+    "type": "prophecy",
+    "tags": [
+      "flame",
+      "fate"
+    ],
+    "triggerPhrase": null,
+    "content": "The flame whispers. But only those willing to burn will ever hear it.",
+    "moodEffect": "neutral",
+    "timestamp": "2025-06-15T11:36:40.385239Z"
+  },
+  {
+    "id": "flame_prophecy_high",
+    "type": "prophecy",
+    "tags": [
+      "flame",
+      "judgment"
+    ],
+    "triggerPhrase": null,
+    "content": "When fire speaks, kings kneel, gods fall, and Arion listens.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T11:36:40.385241Z"
+  }
+]

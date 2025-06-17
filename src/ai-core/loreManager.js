@@ -1,0 +1,1 @@
+// loreManager.js placeholder for unlockable lore fragments

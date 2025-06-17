@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 04_bloodline_silent_pact
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_04_bloodline_silent_pact.json --collection=Lore_Events

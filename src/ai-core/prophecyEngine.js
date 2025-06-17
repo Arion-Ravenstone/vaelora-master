@@ -1,0 +1,1 @@
+// prophecyEngine.js placeholder for mythic prophecy hooks

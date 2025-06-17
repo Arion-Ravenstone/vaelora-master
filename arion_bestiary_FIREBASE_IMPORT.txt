@@ -1,0 +1,3 @@
+# Firebase CLI import for Bestiary
+firebase firestore:delete Bestiary --recursive --yes
+firebase firestore:import /mnt/data/arion_bestiary_creatures.json --collection=Bestiary

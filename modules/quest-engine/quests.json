@@ -1,0 +1,10 @@
+[
+  {
+    "id": "quest_001",
+    "title": "The Forgotten Shrine",
+    "description": "A hidden shrine in the Whispering Vale holds secrets of the old gods.",
+    "objectives": ["Find the shrine", "Retrieve the relic", "Return to the seer"],
+    "rewards": {"xp": 250, "items": ["Moonlit Talisman"]},
+    "difficulty": "medium"
+  }
+]

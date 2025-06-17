@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 06_unspoken_names
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_06_unspoken_names.json --collection=Lore_Events

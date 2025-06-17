@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bloodline_secret_01",
+    "type": "memory",
+    "tags": [
+      "bloodline",
+      "family",
+      "pact"
+    ],
+    "triggerPhrase": "Tell me about your lineage.",
+    "content": "My blood was promised before my first breath. I never signed, but the pact held anyway.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T11:36:40.385213Z"
+  },
+  {
+    "id": "bloodline_omen_prophecy",
+    "type": "prophecy",
+    "tags": [
+      "bloodline",
+      "curse"
+    ],
+    "triggerPhrase": null,
+    "content": "One born bound will sever the chain\u2014and pay with silence.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T11:36:40.385217Z"
+  }
+]

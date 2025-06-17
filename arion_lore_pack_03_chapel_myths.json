@@ -1,0 +1,27 @@
+[
+  {
+    "id": "chapel_myth_altar_01",
+    "type": "unlockable",
+    "tags": [
+      "chapel",
+      "wolves",
+      "ruins"
+    ],
+    "triggerPhrase": "The altar felt warm.",
+    "content": "They say the wolves aren't buried there. They're entombed alive, waiting under the stone.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T11:36:40.385195Z"
+  },
+  {
+    "id": "chapel_echo_door",
+    "type": "echo",
+    "tags": [
+      "chapel",
+      "memory"
+    ],
+    "triggerPhrase": "There was a door.",
+    "content": "No hinges. No handle. Just the outline\u2014and a whisper that said, 'Not yet.'",
+    "moodEffect": "fatigued",
+    "timestamp": "2025-06-15T11:36:40.385210Z"
+  }
+]

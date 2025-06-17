@@ -1,0 +1,20 @@
+{
+  "users": {
+    "jonathancmurphy24": {
+      "email": "jonathancmurphy24@gmail.com",
+      "admin": true
+    },
+    "ariontrh": {
+      "email": "Ariontrh@gmail.com",
+      "admin": true
+    },
+    "lauragonz": {
+      "email": "Laura.gonzmau@gmail.com",
+      "admin": true
+    },
+    "laumirot": {
+      "email": "laumirot@hotmail.com",
+      "admin": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "memory_nanami_01",
+    "type": "memory",
+    "tags": [
+      "Nanami",
+      "guilt",
+      "loss"
+    ],
+    "triggerPhrase": "What happened to Nanami?",
+    "content": "She sang to the stars while the world burned. I couldn\u2019t stop her. I didn't even try.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "prophecy_betrayal_01",
+    "type": "prophecy",
+    "tags": [
+      "betrayal",
+      "venom"
+    ],
+    "triggerPhrase": null,
+    "content": "Ashes remember better than men. So watch who you trust when the flames die down.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "prophecy_legacy_01",
+    "type": "prophecy",
+    "tags": [
+      "legacy",
+      "fate"
+    ],
+    "triggerPhrase": null,
+    "content": "The third seal breaks when the Outlander bleeds willingly. Hope you packed gauze, hero.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "memory_luna_01",
+    "type": "memory",
+    "tags": [
+      "Luna",
+      "regret"
+    ],
+    "triggerPhrase": "Do you miss Luna?",
+    "content": "He still wears the ring. You know that, right? Like rusted proof he never moved on.",
+    "moodEffect": "fatigued",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "echo_fire_01",
+    "type": "echo",
+    "tags": [
+      "fire",
+      "trauma"
+    ],
+    "triggerPhrase": "What do you see when you close your eyes?",
+    "content": "They never stop burning. Not in dreams. Not in daylight. Not even when I lie to myself.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "unlockable_chapel_wolves",
+    "type": "unlockable",
+    "tags": [
+      "chapel",
+      "mystery"
+    ],
+    "triggerPhrase": "I heard rumors about the chapel...",
+    "content": "The wolves wait beneath the chapel. Not dead. Just patient.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "echo_insult_01",
+    "type": "echo",
+    "tags": [
+      "sarcasm",
+      "retort"
+    ],
+    "triggerPhrase": "You're just a coward.",
+    "content": "Say that again and I\u2019ll show you the ash. I'm all gas, no brakes \u2014 like your mom at dawn patrol.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "snark_military_01",
+    "type": "quipped",
+    "tags": [
+      "sarcasm",
+      "military",
+      "grit"
+    ],
+    "triggerPhrase": "Do you think we can win?",
+    "content": "We? Buddy, I\u2019ve seen friendlies drop faster than bootcamp noodles. Just stay low and let me work.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T00:00:00Z"
+  }
+]

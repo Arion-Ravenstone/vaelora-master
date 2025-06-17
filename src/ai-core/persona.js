@@ -1,0 +1,1 @@
+// persona.js placeholder with Arion's constraints

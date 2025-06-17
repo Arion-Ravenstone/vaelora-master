@@ -1,0 +1,26 @@
+[
+  {
+    "id": "philosophy_loss_01",
+    "type": "memory",
+    "tags": [
+      "trauma",
+      "philosophy"
+    ],
+    "triggerPhrase": "Why do you keep fighting?",
+    "content": "Because stopping means admitting none of it mattered. And I\u2019m not that brave.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T11:36:40.385249Z"
+  },
+  {
+    "id": "philosophy_shatter_prophecy",
+    "type": "prophecy",
+    "tags": [
+      "collapse",
+      "faith"
+    ],
+    "triggerPhrase": null,
+    "content": "When faith becomes burden, the gods burn their own temples to keep warm.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T11:36:40.385262Z"
+  }
+]

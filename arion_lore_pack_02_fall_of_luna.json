@@ -1,0 +1,65 @@
+[
+  {
+    "id": "luna_memory_01",
+    "type": "memory",
+    "tags": [
+      "Luna",
+      "regret",
+      "loss"
+    ],
+    "triggerPhrase": "Tell me about Luna",
+    "content": "She was the one thing I didn\u2019t want to lose. So of course, the world took her first.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "luna_echo_02",
+    "type": "echo",
+    "tags": [
+      "Luna",
+      "betrayal"
+    ],
+    "triggerPhrase": "You let her die",
+    "content": "Say it louder. Maybe then I\u2019ll believe it wasn\u2019t my fault.",
+    "moodEffect": "venomous",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "luna_prophecy_01",
+    "type": "prophecy",
+    "tags": [
+      "Luna",
+      "death"
+    ],
+    "triggerPhrase": null,
+    "content": "The light that fell was not a star. It was a promise\u2014broken before the vow ever reached her lips.",
+    "moodEffect": "fatigued",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "luna_unlock_altar",
+    "type": "unlockable",
+    "tags": [
+      "Luna",
+      "relic",
+      "mystery"
+    ],
+    "triggerPhrase": "I found the altar",
+    "content": "Then you found her grief too. It\u2019s still soaked into the stone if you listen close.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "luna_haunt_phrase",
+    "type": "echo",
+    "tags": [
+      "Luna",
+      "haunting",
+      "memory"
+    ],
+    "triggerPhrase": "She\u2019s still here, isn\u2019t she?",
+    "content": "Not here. But not gone. I hear her in the rust of the blade I never cleaned.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T00:00:00Z"
+  }
+]

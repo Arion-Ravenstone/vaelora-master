@@ -1,0 +1,1 @@
+This directory holds the logic for Phase3 Lore Dialogue

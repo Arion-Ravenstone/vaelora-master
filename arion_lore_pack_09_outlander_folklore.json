@@ -1,0 +1,26 @@
+[
+  {
+    "id": "outlander_rumor_01",
+    "type": "quipped",
+    "tags": [
+      "outlander",
+      "rumor"
+    ],
+    "triggerPhrase": "They\u2019re talking about me.",
+    "content": "Good. Means you\u2019re either feared or misunderstood. Usually both.",
+    "moodEffect": "neutral",
+    "timestamp": "2025-06-15T11:36:40.385243Z"
+  },
+  {
+    "id": "outlander_echo_hero",
+    "type": "echo",
+    "tags": [
+      "outlander",
+      "echo"
+    ],
+    "triggerPhrase": "They call me a hero.",
+    "content": "They called me that once too. Right before they needed someone to bleed in my place.",
+    "moodEffect": "fatigued",
+    "timestamp": "2025-06-15T11:36:40.385245Z"
+  }
+]

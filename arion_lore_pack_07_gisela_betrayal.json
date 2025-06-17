@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gisela_memory_betrayal",
+    "type": "memory",
+    "tags": [
+      "Gisela",
+      "betrayal"
+    ],
+    "triggerPhrase": "You trusted her.",
+    "content": "I did. I trusted her enough to give her the blade. She used it well.",
+    "moodEffect": "gutted",
+    "timestamp": "2025-06-15T11:36:40.385233Z"
+  },
+  {
+    "id": "gisela_poison_echo",
+    "type": "echo",
+    "tags": [
+      "Gisela",
+      "poison"
+    ],
+    "triggerPhrase": "The wine tasted strange.",
+    "content": "That's because it wasn\u2019t meant for you. But it still did its job.",
+    "moodEffect": "wary",
+    "timestamp": "2025-06-15T11:36:40.385237Z"
+  }
+]

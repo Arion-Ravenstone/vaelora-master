@@ -1,0 +1,4 @@
+// Secure rules placeholder for Arion collections
+match /Trauma_Triggers/{docId} {
+  allow read, write: if request.auth != null && request.auth.uid == resource.data.userId;
+}

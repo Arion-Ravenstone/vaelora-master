@@ -1,0 +1,3 @@
+# Firebase CLI import instructions for Lore Pack 05_warfront_echoes
+firebase firestore:delete Lore_Events --recursive --yes
+firebase firestore:import /mnt/data/arion_lore_pack_05_warfront_echoes.json --collection=Lore_Events
